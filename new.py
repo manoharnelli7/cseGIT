@@ -1,3 +1,3 @@
 python file
-class xy
+class xyz
 def __init__
