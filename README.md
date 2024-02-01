@@ -1,3 +1,1 @@
-# cseGIT
-this is the readme of cseGIT repository
-extra line added
+lAB 10 GIT PULL FETCH IS GOING YO UPDATE LOCAL REPOSITORY
